@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">androidHomework_2.22_Ushakov</string>
+    <string name="viewPhotos">Просмотр фото</string>
+    <string name="photo">photo</string>
+    <string name="next">Вперёд</string>
+    <string name="back">Назад</string>
+    <string name="url">http://myfile.org/</string>
+</resources>
